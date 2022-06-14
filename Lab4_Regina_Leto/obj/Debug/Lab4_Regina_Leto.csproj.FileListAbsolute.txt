@@ -1,0 +1,20 @@
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\bin\Debug\Lab4_Regina_Leto.exe.config
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\bin\Debug\Lab4_Regina_Leto.exe
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\bin\Debug\Lab4_Regina_Leto.pdb
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.csprojAssemblyReference.cache
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.frmCraps.resources
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.Properties.Resources.resources
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.csproj.GenerateResource.cache
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.csproj.CoreCompileInputs.cache
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.exe
+C:\Users\ginar\source\repos\EGR 1400\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.pdb
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\bin\Debug\Lab4_Regina_Leto.exe.config
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\bin\Debug\Lab4_Regina_Leto.exe
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\bin\Debug\Lab4_Regina_Leto.pdb
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.csprojAssemblyReference.cache
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.frmCraps.resources
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.Properties.Resources.resources
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.csproj.GenerateResource.cache
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.csproj.CoreCompileInputs.cache
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.exe
+C:\Users\ginar\OneDrive\Desktop\EGR 1400\EGR 1400 - Lab\Lab4_Regina_Leto\obj\Debug\Lab4_Regina_Leto.pdb
